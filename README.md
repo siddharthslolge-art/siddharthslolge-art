@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a Computer Engineering student interested<br> in cloud computing, networking, and Python development.<br> I’ve worked on projects involving IoT, machine learning,<br> and Python, and I’m currently learning more about AWS and <br>cloud infrastructure. I enjoy learning new technologies and <br>building projects to improve my technical skills.
+I’m a Computer Engineering student interested<br> in cloud computing, networking, and Python development.<br> I’ve worked on projects involving IoT, machine learning,<br> and Python, and I’m currently learning more about AWS and <br>cloud infrastructure and azure. I enjoy learning new technologies and <br>building projects to improve my technical skills.
 
 
 ## 🌐 Socials:
