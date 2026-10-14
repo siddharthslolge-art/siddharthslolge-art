@@ -26,9 +26,14 @@ I’m a Computer Engineering student interested<br> in cloud computing, networki
 
 <table>
 <tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/siddharthslolge-art">siddharthslolge-art</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/ai-tutor-mvp">ai-tutor-mvp</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Swift · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/connect-four">connect-four</a></b></td><td>An AI-powered Connect Four game built using Python, Pygame, and NumPy, featuring an intelligent opponent based on the Minimax algorithm with Alpha-Beta Pruning.<br/><sub>open source · 0 stars</sub></td></tr>
+```html
+<table>
+<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/Smart-Accident-Detection-and-Alert-System-using-IOT">Smart Accident Detection and Alert System using IoT</a></b></td><td>An IoT-based accident detection system designed to detect vehicle accidents and send alerts with location details to emergency contacts.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/credit-card-fraud-detection">credit-card-fraud-detection</a></b></td><td>A machine learning project focused on identifying potentially fraudulent credit card transactions using data analysis and classification techniques.<br/><sub>Python · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/ai-tutor-mvp">ai-tutor-mvp</a></b></td><td>An AI-powered tutoring application designed to support students with personalized learning assistance.<br/><sub>Swift · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/digital-watch">digital-watch</a></b></td><td>A real-time digital watch application built using Python that displays the current time through a simple and user-friendly interface.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+```
 </table>
 
 ## Creative toolkit
