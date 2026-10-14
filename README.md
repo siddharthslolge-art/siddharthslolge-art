@@ -1,7 +1,49 @@
 # 💫 About Me:
 I’m a Computer Engineering student interested<br> in cloud computing, networking, and Python development.<br> I’ve worked on projects involving IoT, machine learning,<br> and Python, and I’m currently learning more about AWS and <br>cloud infrastructure and azure. I enjoy learning new technologies and <br>building projects to improve my technical skills.
 
+## Selected work
 
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=siddharthslolge-art&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253001101%3Fu%3D429739726b40a0d98891d24c39dabb78d0ea48bd%26v%3D4" alt="siddharthslolge-art hero visual" />
+</p>
+
+<h1>siddharth lolge</h1>
+<p><b>Freelance developer or consultant</b></p>
+
+</div>
+
+## The idea behind the work
+
+> Computer engineer from India. Master’s student at Middlesex University Dubai. Interested in cloud computing, network management and AI/ML.
+
+- 👥 **0** followers · **0** following
+
+*Small, useful work over vague claims.*
+
+## Case studies
+
+<table>
+<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/siddharthslolge-art">siddharthslolge-art</a></b></td><td>A selected project from this GitHub profile.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/ai-tutor-mvp">ai-tutor-mvp</a></b></td><td>A selected project from this GitHub profile.<br/><sub>Swift · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/connect-four">connect-four</a></b></td><td>An AI-powered Connect Four game built using Python, Pygame, and NumPy, featuring an intelligent opponent based on the Minimax algorithm with Alpha-Beta Pruning.<br/><sub>open source · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/siddharthslolge-art/digital-watch">digital-watch</a></b></td><td>A real-time digital watch application built using Python that displays the current time through a simple and user-friendly interface.<br/><sub>open source · 0 stars</sub></td></tr>
+</table>
+
+## Creative toolkit
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+
+## Make something memorable
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=siddharthslolge-art&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253001101%3Fu%3D429739726b40a0d98891d24c39dabb78d0ea48bd%26v%3D4" alt="siddharthslolge-art social visual" />
+</p>
+
+<a href="https://github.com/siddharthslolge-art">GitHub</a>
+
+<p align="center"><sub>siddharth lolge · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/sl__siddharth?vrfl=MThtMDdyMnNhdmdmcg%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Siddharth lolge) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@siddlolge?si=HRculu_35r1Q8SGV) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@siddharth Lolge) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthslolge@gmail.com) 
 
@@ -20,5 +62,7 @@ I’m a Computer Engineering student interested<br> in cloud computing, networki
 
 ---
 [![](https://komarev.com/ghpvc/?username=siddharthslolge-art&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
