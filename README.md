@@ -10,7 +10,7 @@ I’m a Computer Engineering student interested<br> in cloud computing, networki
 </p>
 
 <h1>siddharth lolge</h1>
-<p><b>cloud MSc.computing and network management student and B.E. computer engineer </b></p>
+<p><b> MSc. cloud computing and network management student and B.E. computer engineer </b></p>
 
 </div>
 
