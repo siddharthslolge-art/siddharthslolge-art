@@ -1,4 +1,8 @@
-# Siddharth Lolge
+<div align="center">
+
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=siddharthslolge-art&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253001101%3Fu%3D429739726b40a0d98891d24c39dabb78d0ea48bd%26v%3D4" alt="siddharthslolge-art hero visual" />
+</p>
 MSc Network Management & Cloud Computing student (Middlesex University Dubai) | B.E. Computer Engineering
 
 Python developer interested in automation, data processing, and cloud. Building toward a junior programmer role in the UAE.
