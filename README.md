@@ -23,7 +23,6 @@ I’m a Computer Engineering student interested<br> in cloud computing, networki
   <img src="https://www.gitskins.com/api/section/hero?username=siddharthslolge-art&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F253001101%3Fu%3D429739726b40a0d98891d24c39dabb78d0ea48bd%26v%3D4" alt="siddharthslolge-art hero visual" />
 </p>
 
-<h1>siddharth lolge</h1>
 <p><b> MSc. cloud computing and network management student and B.E. computer engineer </b></p>
 
 </div>
