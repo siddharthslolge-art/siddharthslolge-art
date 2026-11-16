@@ -15,11 +15,11 @@ I'm a computer engineer from India and an MSc student at Middlesex University Du
 ## 🚀 Projects
 
 - **[Smart Accident Detection System (IoT)](https://github.com/siddharthslolge-art/REPO-NAME)**: ESP32 + ADXL345 + GPS + GSM; published in IJIRT
+- **[NIDS-Intelligent Network Intrusion Detection System (NIDS)](https://github.com/siddharthslolge-art/REPO-NAME)**:Python, PyTorch, scikit-learn, Socket Programming, pandas 
+- **[Enterprise Network Security Lab (Cisco Packet Tracer):](https://github.com/siddharthslolge-art/REPO-NAME)**:  Cisco Packet Tracer, VLANs, ACLs, OSPF, NAT, DHCP
 - **[Credit Card Fraud Detection](https://github.com/siddharthslolge-art/REPO-NAME)**: Python, scikit-learn, FastAPI
 - **[AI Tutor MVP](https://github.com/siddharthslolge-art/REPO-NAME)** (in progress): Firebase + Python backend, RAG planned
 - **[Connect Four AI](https://github.com/siddharthslolge-art/REPO-NAME)**: Python, Minimax with alpha-beta pruning
-- **[NIDS-Intelligent Network Intrusion Detection System (NIDS)](https://github.com/siddharthslolge-art/REPO-NAME)**:Python, PyTorch, scikit-learn, Socket Programming, pandas 
-
 ## 📫 Contact
 
 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) | [siddharthslolge@gmail.com](mailto:siddharthslolge@gmail.com)
