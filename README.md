@@ -8,7 +8,7 @@
 
 ## 💫 About Me
 
-I'm a computer engineer from India and an MSc student at Middlesex University Dubai, interested in cloud computing, network management, and AI/ML. I've built projects in IoT, machine learning, and Python, and I'm currently learning AWS, Azure, and cloud infrastructure. I'm building toward a junior programmer role in the UAE, with a focus on automation, data processing, and cloud.
+I'm a computer engineer from India and an MSc student at Middlesex University Dubai, interested in cloud computing, network management, and AI/ML. I've built projects in cisco packet tracer, IoT, machine learning, and Python, and I'm currently learning AWS, Azure, and cloud infrastructure. I'm building toward a junior programmer role in the UAE, with a focus on automation, data processing, and cloud.
 
 *Small, useful work over vague claims.*
 
