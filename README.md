@@ -18,6 +18,7 @@ I'm a computer engineer from India and an MSc student at Middlesex University Du
 - **[Credit Card Fraud Detection](https://github.com/siddharthslolge-art/REPO-NAME)**: Python, scikit-learn, FastAPI
 - **[AI Tutor MVP](https://github.com/siddharthslolge-art/REPO-NAME)** (in progress): Firebase + Python backend, RAG planned
 - **[Connect Four AI](https://github.com/siddharthslolge-art/REPO-NAME)**: Python, Minimax with alpha-beta pruning
+- **[](https://github.com/siddharthslolge-art/REPO-NAME)**: Python, scikit-learn, FastAPI
 
 ## 📫 Contact
 
